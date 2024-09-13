@@ -1,0 +1,36 @@
+export const ccmapper = {
+  1: "india",
+  14: "australia",
+  30: "brazil",
+  37: "banada",
+  94: "indonesia",
+  148: "new zealand",
+  162: "phillipines",
+  166: "qatar",
+  184: "singapore",
+  189: "south africa",
+  191: "sri lanka",
+  208: "turkey",
+  214: "uae",
+  215: "united kingdom",
+  216: "united states",
+};
+
+
+export const ccmapperReverse={
+  "india": 1,
+  "australia": 14,
+  "brazil": 30,
+  "canada": 37,
+  "indonesia": 94,
+  "new zealand": 148,
+  "phillipines": 162,
+  "qatar": 166,
+  "singapore": 184,
+  "south africa": 189,
+  "sri lanka": 191,
+  "turkey": 208,
+  "uae": 214,
+  "united kingdom": 215,
+  "united states": 216,
+}
